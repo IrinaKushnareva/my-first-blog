@@ -49,6 +49,8 @@ body {
 
            .post {
                margin-bottom: 70px;
+               height: 270px;
+               overflow: hidden;
            }
 
            .post h1 a, .post h1 a:visited {
